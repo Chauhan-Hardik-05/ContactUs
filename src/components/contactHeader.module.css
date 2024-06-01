@@ -1,0 +1,11 @@
+.headingSection h1 {
+  font-size: 42px;
+  font-weight: 800;
+}
+
+.headingSection p {
+  font-size: 16px;
+  color: var(--gray);
+  font-weight: 500;
+  max-width: 975px;
+}
